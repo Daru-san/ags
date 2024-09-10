@@ -1,5 +1,8 @@
 # Aylur's Gtk Shell
 
+> This repo is a fork created to sync the sway branch in pr 246 on the repo with upstream
+> Use at your own risk
+
 This is a library built for [GJS](https://gitlab.gnome.org/GNOME/gjs) to allow defining GTK widgets in a declarative way. It also provides services and other utilities to interact with the system so that these widgets can have functionality.
 GJS is a JavaScript runtime built on Firefox's SpiderMonkey JavaScript engine and the GNOME platform libraries, the same runtime [GNOME Shell](https://gitlab.gnome.org/GNOME/gnome-shell) runs on. 
 
